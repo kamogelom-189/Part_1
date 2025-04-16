@@ -13,17 +13,18 @@ public class Part_2 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         
-         String str = "Four score and seven years ago";
-   int first, last;
-   first = str.indexOf("r");
-   last = str.lastIndexOf("r");
-   System.out.println("The letter r first appears at" + "position" + first);
-   System.out.println("The letter r last appears at" + "position" + last);
+//          String str = "Four score and seven years ago";
+//    int first, last;
+//    first = str.indexOf("r");
+//    last = str.lastIndexOf("r");
+//    System.out.println("The letter r first appears at" + "position" + first);
+//    System.out.println("The letter r last appears at" + "position" + last);
    
-   String fullName = "kamogelo Mathe";
-   String lastName = fullName.substring(9);
-   System.out.println("The full name is " + fullName);
-   System.out.println("The last Name is " + lastName);
+//    String fullName = "kamogelo Mathe";
+//    String lastName = fullName.substring(9);
+//    System.out.println("The full name is " + fullName);
+//    System.out.println("The last Name is " + lastName)
+        System.out.println("Hello Kamogelo Mathe")
     }
   
 }
